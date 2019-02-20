@@ -77,7 +77,7 @@
             </thead>
             <tbody>
               <tr>
-                <td>Pod's IP</td>
+                <td>Pod IP</td>
                 <td><?php echo $_SERVER['SERVER_ADDR'] ?></td>
               </tr>
               <tr>
