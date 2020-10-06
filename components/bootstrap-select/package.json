@@ -20,7 +20,7 @@
 		}
 	],
 	"dependencies": {
-		"jquery": "3.4"
+		"jquery": "3.5.0"
 	},
 	"keywords": [
 		"form",
